@@ -1,5 +1,6 @@
 # projektSRiR
 
+```bash
 source /opt/nfs/config/source_mpich430.sh
 source /opt/nfs/config/source_cuda121.sh
 source /opt/nfs/config/source_gaspi.sh
